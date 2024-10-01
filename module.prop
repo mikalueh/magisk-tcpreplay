@@ -1,0 +1,6 @@
+id=magisk-tcpreplay
+name=Magisk-tcpreplay
+version=1.0.0
+versionCode=100
+author=mikalueh
+description=Get tcpreplay Android for Magisk
